@@ -10,10 +10,10 @@ Classic snake console game implemented in Verilog
 
 ### 3. Rules
 
-* The snake's HP starts out 100, moving speed starts out 5.
+* The snake's HP starts out 100, moving speed starts out 10.
 * When you hit a wall, HP is deducted 10 each second.
 * Collect points before the timer ends! banana gives 5 points, pineapple gives 10.
-* Eating chili gives a huge speed boost!
+* Eating chili gives a 2x speed boost for 10 seconds!
 
 ### 4. End Game
 
