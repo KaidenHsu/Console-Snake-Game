@@ -2,6 +2,8 @@
 
 Classic snake console game implemented in Verilog
 
+Repo under construction 🚧 ... Thank you for your patience
+
 ## 🐍 Gameplay
 
 ### 1. Greeting Page
